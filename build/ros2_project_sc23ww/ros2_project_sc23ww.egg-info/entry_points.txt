@@ -1,0 +1,3 @@
+[console_scripts]
+project_node = ros2_project_sc23ww.project_node:main
+

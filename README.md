@@ -1,6 +1,8 @@
 # ros2_project_sc23ww
-# ros2_project_sc23ww
 
+In this, the robot should go around hte map and explore and as soon as it sees the blue box and it fills up a certain amount of the screen, the robot stops.
+
+# Starting up
 
 cd ~/ros2_2proj
 colcon build --packages-select ros2_project_sc23ww
